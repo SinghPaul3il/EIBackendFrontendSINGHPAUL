@@ -1,0 +1,18 @@
+.listeNav{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    /* gap: 15rem; */
+    gap: 100px;
+    list-style: none;
+    padding-bottom: 2.5em;
+
+  }
+  
+  .listeNav li{
+    font-size: 2rem;
+    text-decoration: none;
+    color: crimson;
+    text-underline-offset: 0.75em;
+  
+  }
